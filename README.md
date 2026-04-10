@@ -70,6 +70,8 @@ Key business questions answered:
 
 ## 📈 Power BI Dashboard
 
+![Power BI Dashboard](dashboard/Screenshot%202026-04-10%20154026.png)
+
 ### Key Metrics
 | Metric | Value |
 |--------|-------|
@@ -89,8 +91,6 @@ Key business questions answered:
 - Category
 - Shipping Type
 
----
-
 ## 📊 Key Insights
 
 | Insight |
@@ -101,7 +101,7 @@ Key business questions answered:
 | 🔁 Loyal customers dominate dataset |
 | 🎯 Young Adults contribute highest revenue |
 
-> *Insights validated from SQL results*
+
 
 ---
 
