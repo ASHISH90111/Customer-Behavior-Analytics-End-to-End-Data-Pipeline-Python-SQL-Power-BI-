@@ -46,8 +46,8 @@ Leverage customer data to improve sales, engagement, and marketing strategies
 
 ## 🗄️ Database Integration
 
-- Data exported to **PostgreSQL** / **MySQL** / **SQL Server**
-- Used **SQLAlchemy** + **psycopg2** for pipeline
+- Data exported to **MySQL**
+- Used **SQLAlchemy** + **mysql-connector-python** for pipeline
 
 ---
 
