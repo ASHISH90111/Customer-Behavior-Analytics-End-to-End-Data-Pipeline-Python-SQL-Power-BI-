@@ -117,13 +117,13 @@ Key business questions answered:
 
 ## 🏗 Project Structure
 - data
--    customer_shopping_behavior.csv
+    customer_shopping_behavior.csv
 - notebooks
--   data_cleaning.ipynb
+   data_cleaning.ipynb
 - sql
--    business_queries.sql
+     business_queries.sql
 - dashboard
--   powerbi_dashboard.pbix
+   powerbi_dashboard.pbix
 - README.md
 
 ---
